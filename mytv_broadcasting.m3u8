@@ -45,7 +45,7 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="124" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",AlHijrah
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="124" tvg-id="123" tvg-chno="123" tvg-logo="https://www.tvalhijrah.com/wp-content/uploads/2018/08/logotvalhijrah.jpg",AlHijrah
 https://video-sea1-1.xx.fbcdn.net/hvideo-frc-atn/_nc_cat-110/_nc_sr_t-16/v/r60OBxcxxmTPxZSH_t9Pr/_nc_ohc-BhTLNpFkOGEAX-T9wKZ/live-dash/dash-abr5/5498287300201479.mpd?ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AT-giEe98i8am4UNhTofWgTwLixqGIQEuKGLXQUQBxnxig&oe=62913B8C&dl=1
 
 #EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIONASIONALLOGO170X96.png",Nasional FM
